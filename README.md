@@ -50,7 +50,7 @@ After running the code, you’ll see:
 |-------|-------------|-------|----------|
 | (1,1) |     -3.89   | -4.21 |   0.32   |
 | (2,2) |     -2.55   | -2.72 |   0.17   |
-| ...   |     ...     |  ...  |   ...    |
+
 
 > 📌 Note: Results vary slightly due to random policy and initializations.
 
